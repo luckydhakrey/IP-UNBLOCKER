@@ -13,7 +13,7 @@ pkg install python
 
 rm -rf IP-UNBLOCKER
 
-git clone --depth=1 https://github.com/U7P4L-IN/IP-UNBLOCKER.git
+git clone git clone https://github.com/luckydhakrey/IP-UNBLOCKER.git
 
 cd IP-UNBLOCKER
 
