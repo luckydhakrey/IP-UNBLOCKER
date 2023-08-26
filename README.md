@@ -23,7 +23,7 @@ python3 IP.py
 
 ## SCREENSHOT
 
-<p align="center"><img src="https://github.com/U7P4L-IN/IP-UNBLOCKER/blob/master/Image/GridArt_20230822_205234985.jpg">
+<p align="center"><img src="https://graph.org/file/34201f73baeacad66b661.jpg">
 
 # CONTACT:
 ```sh
