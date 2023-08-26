@@ -27,12 +27,6 @@ python3 IP.py
 
 # CONTACT:
 ```sh
-Telegram: @AN0NYM0U5_X
+Telegram: https://t.me/TERMUX_EXTREME_SUPPORT
 ```
 ### Tools Languages :
-
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=IP-UNBLOCKER&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
-
-# Give A Star ⭐
-
-You can also give this repository a star to show more people and they can use this repository
